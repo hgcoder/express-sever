@@ -1,0 +1,42 @@
+{
+    data: [{
+            "useNum": 16081267,
+            "useName": "胡晓",
+            "depart": "大数据中心-前端开发部",
+            "useStatus": "正常",
+            "doEdit": "test"
+
+        }, {
+            "useNum": 16081267,
+            "useName": "胡晓1",
+            "depart": "大数据中心-前端开发部",
+            "useStatus": "正常",
+            "doEdit": "test"
+
+        }, {
+            "useNum": 16081267,
+            "useName": "胡晓2",
+            "depart": "大数据中心-前端开发部",
+            "useStatus": "正常",
+            "doEdit": "test"
+
+        }, {
+            "useNum": 16081267,
+            "useName": "胡晓3",
+            "depart": "大数据中心-前端开发部",
+            "useStatus": "正常",
+            "doEdit": "test"
+
+        },
+
+    ],
+    "draw": "5",
+    "extralParams": {
+        "currentDate": "2016-11-11"
+    },
+    "length": "15",
+    "recordsFiltered": 174,
+    "recordsTotal": 174,
+    "start": "0",
+    "statusCode": 0
+}

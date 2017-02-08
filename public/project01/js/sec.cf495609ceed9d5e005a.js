@@ -1,0 +1,1 @@
+webpackJsonp([2,0],[function(n,e){"use strict";new Vue({el:"#app",data:function(){return{visible:!1}},methods:{handleOpen:function(){},handleClose:function(){}},created:function(){console.log(3)},mounted:function(){}})}]);

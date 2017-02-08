@@ -1,0 +1,17 @@
+
+    {
+      "name": "",
+      "script": "./bin/www", 
+      "cwd"  : "./",
+      "watch": [  // 监控变化的目录，一旦变化，自动重启
+        "bin",
+        "routes"
+      ],
+      "ignore_watch" : [  // 从监控目录中排除
+          "node_modules", 
+          "logs"
+      ],
+      "watch_options": {
+        "followSymlinks": false
+      }
+    }

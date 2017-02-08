@@ -1,0 +1,38 @@
+{
+    diyMenu:[
+        {
+            mTit:"全链路监控",
+            listTit:[
+                {name:"实时订单监控",url:"/monIndex"},
+                {name:"历史订单监控",url:"/monHistIndex"},
+                {name:"订单查询",url:"/monDetail"},
+                {name:"实时告警查询",url:"/monWarn"},
+                {name:"历史告警查询",url:"/monHisWarn"},
+                {name:"订单赔付试算",url:"/monPen"},
+                {name:"B锁无货监控",url:"/monLocker"},
+                {name:"B锁无货详情监控",url:"/monLockerDet"}
+            ]
+        },
+        {
+            mTit:"订单承诺考核",
+            listTit:[
+                {name:"赔付中心考核",url:"/monAsse"},
+                {name:"数据对账",url:"/monCheck"}
+            ]
+        },
+        {
+            mTit:"配置管理",
+            listTit:[
+                {name:"赔付规则配置",url:"/monEdit"},
+            ]
+        },
+        {
+            mTit:"工具列表",
+            listTit:[
+                {name:"原始数据查询",url:"/monSouData"},
+                {name:"缓存数据查询",url:"/monCache"}
+            ]
+        }
+
+    ]
+}

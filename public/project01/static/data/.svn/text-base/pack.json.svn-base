@@ -1,0 +1,176 @@
+
+{
+
+      "tbodyData": [
+        {
+        "nodeList": [{
+          "orderNum":"40",
+          "business_link_name": "线上已支付--OMS",
+          "efficient_time": "2秒335毫秒",
+          "node_time": "20160824170729335"
+        }, {
+          "orderNum":"3433",
+          "business_link_name": "天猫已支付--OMS",
+          "efficient_time": "",
+          "node_time": "20160824170729335"
+        }, {
+          "orderNum":"3433",
+          "business_link_name": "线下已支付--OMS",
+          "efficient_time": "",
+          "node_time": "20160824170729335"
+        }],
+        "title": "订单创建支付"
+      }, {
+        "nodeList": [{
+          "orderNum":"3433",
+          "business_link_name": "OMS--OMSD",
+          "efficient_time": "",
+          "node_time": "20160824170729"
+        }, {
+          "orderNum":"3433",
+          "business_link_name": "OMSD审核前",
+          "efficient_time": "",
+          "node_time": "20160824170729"
+        }, {
+          "orderNum":"3433",
+          "business_link_name": "MINOS审核",
+          "efficient_time": ""
+        }, {
+          "orderNum":"3433",
+          "business_link_name": "OMSD审核后",
+          "efficient_time": ""
+        }, {
+          "orderNum":"3433",
+          "business_link_name": "OMSD审核后",
+          "efficient_time": ""
+        }, {
+          "orderNum":"3433",
+          "business_link_name": "OMSD审核后",
+          "efficient_time": ""
+        }, {
+          "orderNum":"3433",
+          "business_link_name": "OMSD--MOMS",
+          "efficient_time": ""
+        }, {
+          "orderNum":"8888",
+          "business_link_name": "OMSD--LOS",
+          "efficient_time": ""
+        }, {
+          "orderNum":"8888",
+          "business_link_name": "OMSD--SOMP",
+          "efficient_time": ""
+        }, {
+          "orderNum":"8888",
+          "business_link_name": "MOMS--LOS",
+          "efficient_time": ""
+        }],
+        "title": "订单同步"
+      }, {
+        "nodeList": [{
+          "orderNum":"8888",
+          "business_link_name": "SOMP内部创建",
+          "efficient_time": ""
+        }, {
+          "orderNum":"8888",
+          "business_link_name": "MOMS内部创建",
+          "efficient_time": ""
+        }, {
+          "orderNum":"8888",
+          "business_link_name": "LOS耗时",
+          "efficient_time": ""
+        }, {
+          "orderNum":"8888",
+          "business_link_name": "LOS耗时",
+          "efficient_time": ""
+        }, {
+          "orderNum":"8888",
+          "business_link_name": "厂家确认发货",
+          "efficient_time": ""
+        }, {
+          "orderNum":"40",
+          "business_link_name": "厂家送货时间",
+          "efficient_time": ""
+        }, {
+          "orderNum":"40",
+          "business_link_name": "C点确认发货",
+          "efficient_time": ""
+        }, {
+          "orderNum":"2000",
+          "business_link_name": "海外购确认发货",
+          "efficient_time": ""
+        }],
+        "title": "开放平台"
+      }, {
+        "nodeList": [{
+          "orderNum":"2000",
+          "business_link_name": "末端扫码到出站",
+          "efficient_time": ""
+        }, {
+          "orderNum":"2000",
+          "business_link_name": "出站完成",
+          "efficient_time": ""
+        }, {
+          "orderNum":"2000",
+          "business_link_name": "出站到支线运输入站",
+          "efficient_time": ""
+        }, {
+          "orderNum":"2000",
+          "business_link_name": "支线运输入站完成",
+          "efficient_time": ""
+        }, {
+          "orderNum":"40",
+          "business_link_name": "支线入站到支线出站",
+          "efficient_time": ""
+        }, {
+          "orderNum":"40",
+          "business_link_name": "支线出站完成",
+          "efficient_time": ""
+        }, {
+          "orderNum":"40",
+          "business_link_name": "支线出站到K点入站",
+          "efficient_time": ""
+        }, {
+          "orderNum":"555",
+          "business_link_name": "K点入站完成",
+          "efficient_time": ""
+        }, {
+          "orderNum":"555",
+          "business_link_name": "K点入站到K点出站",
+          "efficient_time": ""
+        }, {
+          "orderNum":"555",
+          "business_link_name": "K点出站完成",
+          "efficient_time": ""
+        }, {
+          "orderNum":"555",
+          "business_link_name": "K点出站到自提柜入",
+          "efficient_time": ""
+        }, {
+          "orderNum":"555",
+          "business_link_name": "K点出站到签收",
+          "efficient_time": ""
+        }, {
+          "orderNum":"555",
+          "business_link_name": "K点出站到拒收",
+          "efficient_time": ""
+        }, {
+          "orderNum":"40",
+          "business_link_name": "自提柜入到拒收",
+          "efficient_time": ""
+        }, {
+          "orderNum":"40",
+          "business_link_name": "自提柜入完成",
+          "efficient_time": ""
+        }, {
+          "orderNum":"40",
+          "business_link_name": "签收完成",
+          "efficient_time": ""
+        }, {
+          "orderNum":"40",
+          "business_link_name": "拒收完成",
+          "efficient_time": ""
+        }],
+        "title": "物流"
+      }],
+      "theadData": ["#","业务链路节点", "订单数", "时效","告警数","阈值"]
+    }

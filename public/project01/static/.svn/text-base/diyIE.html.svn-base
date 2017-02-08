@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8">
+    <meta name="renderer" content="webkit">
+    <meta http-equiv="Cache-Control" content="no-siteapp" />
+    <title>苏宁-后台管理系统</title>
+    <meta name="keywords" content="苏宁-后台管理系统">
+    <meta name="description" content="苏宁-后台管理系统">
+    <link rel="shortcut icon" href="favicon.ico">
+
+    <style >
+      body{
+        background: #12cad6;
+      }
+      #app{
+        height: 600px;
+        min-width: 1200px  !important;
+        overflow: auto !important;
+      }
+      #app img{
+        display: block;
+        width: 1000px;
+        margin: 100px auto;
+      }
+    </style>
+</head>
+
+  <body class="">
+	  <div id="app"> <img src="../static/img/diyIE.png"  alt="" /> </div>
+  </body>
+
+</html>

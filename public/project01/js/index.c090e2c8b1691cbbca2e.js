@@ -1,0 +1,1 @@
+webpackJsonp([3,0],[function(n,e,t){"use strict";function o(n){return n&&n.__esModule?n:{default:n}}var u=t(1);o(u);new Vue({el:"#app",data:function(){return{visible:!1}},methods:{handleOpen:function(){},handleClose:function(){}},created:function(){console.log(3)},mounted:function(){}})}]);
